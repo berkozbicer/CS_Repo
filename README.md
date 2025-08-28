@@ -12,8 +12,6 @@ This repository contains practice projects, exercises, and mini-applications I�
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
 - **`console-programlama/`** : Console applications demonstrating basic C# concepts  
 - **`degiskenler/`** : Variable exercises and examples  
 
