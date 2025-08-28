@@ -12,28 +12,10 @@ This repository contains practice projects, exercises, and mini-applications I�
 
 ## 📂 Repository Structure
 
-- **`ConsoleApps/`** : Console-based applications demonstrating basic C# concepts  
-- **`OOPExamples/`** : Object-Oriented Programming exercises and design patterns  
-- **`LINQExamples/`** : Data querying and manipulation using LINQ  
-- **`DataStructures/`** : Fundamental data structures and algorithm practice  
-- **`MiniProjects/`** : Small, fun projects to experiment with C# features  
+## 📂 Repository Structure
 
----
-
-## 🖼️ Project Previews
-
-Here are some sample screenshots from my projects:
-
-**Console App Example:**  
-![Console Example](https://via.placeholder.com/600x200?text=Console+App+Preview)
-
-**OOP Example:**  
-![OOP Example](https://via.placeholder.com/600x200?text=OOP+Preview)
-
-**LINQ Example:**  
-![LINQ Example](https://via.placeholder.com/600x200?text=LINQ+Preview)
-
-*Tip: Replace these placeholder images with actual screenshots of your projects.*
+- **`console-programlama/`** : Console applications demonstrating basic C# concepts  
+- **`degiskenler/`** : Variable exercises and examples  
 
 ---
 
