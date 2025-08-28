@@ -42,7 +42,7 @@ Here are some sample screenshots from my projects:
 Clone the repository and build/run a project:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CSharpLearning.git
-cd CSharpLearning
+git clone https://github.com/berkozbicer/CS_Repo.git
+cd CS_Repo
 dotnet build
-dotnet run --project <ProjectName>
+dotnet run --project CS_Repo
