@@ -1,0 +1,14 @@
+D:\dev\PatikaDev\degiskenler\bin\Debug\net9.0\degiskenler.exe
+D:\dev\PatikaDev\degiskenler\bin\Debug\net9.0\degiskenler.deps.json
+D:\dev\PatikaDev\degiskenler\bin\Debug\net9.0\degiskenler.runtimeconfig.json
+D:\dev\PatikaDev\degiskenler\bin\Debug\net9.0\degiskenler.dll
+D:\dev\PatikaDev\degiskenler\bin\Debug\net9.0\degiskenler.pdb
+D:\dev\PatikaDev\degiskenler\obj\Debug\net9.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\PatikaDev\degiskenler\obj\Debug\net9.0\degiskenler.AssemblyInfoInputs.cache
+D:\dev\PatikaDev\degiskenler\obj\Debug\net9.0\degiskenler.AssemblyInfo.cs
+D:\dev\PatikaDev\degiskenler\obj\Debug\net9.0\degiskenler.csproj.CoreCompileInputs.cache
+D:\dev\PatikaDev\degiskenler\obj\Debug\net9.0\degiskenler.dll
+D:\dev\PatikaDev\degiskenler\obj\Debug\net9.0\refint\degiskenler.dll
+D:\dev\PatikaDev\degiskenler\obj\Debug\net9.0\degiskenler.pdb
+D:\dev\PatikaDev\degiskenler\obj\Debug\net9.0\degiskenler.genruntimeconfig.cache
+D:\dev\PatikaDev\degiskenler\obj\Debug\net9.0\ref\degiskenler.dll
