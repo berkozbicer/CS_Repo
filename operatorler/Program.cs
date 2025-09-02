@@ -6,6 +6,7 @@ namespace Operatorler
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("************* Atama ve İşlemli Atama Operatörleri ************");
             // Atama ve işlemli atama operatörleri
             int x = 3;
             int y = 3;
@@ -18,34 +19,65 @@ namespace Operatorler
             x *= 2;
             Console.WriteLine(x);
 
-        //     // Aritmetik Operatörler
-        //     int a = 10;
-        //     int b = 5;
+            // --------------------------------------------------------------------------------------------\\
 
-        //     Console.WriteLine("Aritmetik Operatörler:");
-        //     Console.WriteLine($"Toplama: {a} + {b} = {a + b}");
-        //     Console.WriteLine($"Çıkarma: {a} - {b} = {a - b}");
-        //     Console.WriteLine($"Çarpma: {a} * {b} = {a * b}");
-        //     Console.WriteLine($"Bölme: {a} / {b} = {a / b}");
-        //     Console.WriteLine($"Modül: {a} % {b} = {a % b}");
+            Console.WriteLine("************* Mantıksal Operatörler ************");
+            // Mantıksal operatörler
+            // ||, &&, !
 
-        //     // Karşılaştırma Operatörleri
-        //     Console.WriteLine("\nKarşılaştırma Operatörleri:");
-        //     Console.WriteLine($"{a} == {b}: {a == b}");
-        //     Console.WriteLine($"{a} != {b}: {a != b}");
-        //     Console.WriteLine($"{a} > {b}: {a > b}");
-        //     Console.WriteLine($"{a} < {b}: {a < b}");
-        //     Console.WriteLine($"{a} >= {b}: {a >= b}");
-        //     Console.WriteLine($"{a} <= {b}: {a <= b}");
+            bool isSuccess = true;
+            bool isCompleted = false;
+            if (isSuccess && isCompleted)
+                Console.WriteLine("Perfect!");
+            if (isSuccess || isCompleted)
+                Console.WriteLine("Great!");
+            if (isSuccess && !isCompleted)
+                Console.WriteLine("Fine!");
 
-        //     // Mantıksal Operatörler
-        //     bool x = true;
-        //     bool y = false;
+            // --------------------------------------------------------------------------------------------\\
 
-        //     Console.WriteLine("\nMantıksal Operatörler:");
-        //     Console.WriteLine($"{x} && {y}: {x && y}");
-        //     Console.WriteLine($"{x} || {y}: {x || y}");
-        //     Console.WriteLine($"!{x}: {!x}");
-         }
+            Console.WriteLine("************* İlişkisel Operatörler ************");
+            // İlişkisel operatörler
+            // <, >, <=, >=, ==, !=
+
+            int a = 3;
+            int b = 4;
+            bool sonuc = a < b;
+            Console.WriteLine(sonuc);
+            sonuc = a > b;
+            Console.WriteLine(sonuc);
+            sonuc = a >= b;
+            Console.WriteLine(sonuc);
+            sonuc = a <= b;
+            Console.WriteLine(sonuc);
+            sonuc = a == b;
+            Console.WriteLine(sonuc);
+            sonuc = a != b;
+            Console.WriteLine(sonuc);
+
+            // --------------------------------------------------------------------------------------------\\
+
+            Console.WriteLine("************* Aritmetik Operatörler ************");
+            // // Aritmetik operatörler
+            // // +, -, *, /, %
+            int sayi1 = 10;
+            int sayi2 = 5;
+            int sonuc1 = sayi1 / sayi2;
+            Console.WriteLine(sonuc1);
+            sonuc1 = sayi1 * sayi2;
+            Console.WriteLine(sonuc1);
+            sonuc1 = sayi1 + sayi2;
+            Console.WriteLine(sonuc1);
+            sonuc1 = sayi1++;
+            Console.WriteLine(sayi1);
+            sonuc1 = sayi1--;
+            Console.WriteLine(sayi1);
+            sonuc1 = sayi1 - sayi2;
+            Console.WriteLine(sonuc1);
+
+            // % mod alma
+            int sonuc2 = 20 % 3;
+            Console.WriteLine(sonuc2);
+        }
     }
 }
