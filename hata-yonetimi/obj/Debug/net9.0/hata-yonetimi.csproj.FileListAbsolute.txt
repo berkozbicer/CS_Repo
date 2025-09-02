@@ -1,0 +1,15 @@
+D:\dev\PatikaDev\hata-yonetimi\bin\Debug\net9.0\hata-yonetimi.exe
+D:\dev\PatikaDev\hata-yonetimi\bin\Debug\net9.0\hata-yonetimi.deps.json
+D:\dev\PatikaDev\hata-yonetimi\bin\Debug\net9.0\hata-yonetimi.runtimeconfig.json
+D:\dev\PatikaDev\hata-yonetimi\bin\Debug\net9.0\hata-yonetimi.dll
+D:\dev\PatikaDev\hata-yonetimi\bin\Debug\net9.0\hata-yonetimi.pdb
+D:\dev\PatikaDev\hata-yonetimi\obj\Debug\net9.0\hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\PatikaDev\hata-yonetimi\obj\Debug\net9.0\hata-yonetimi.AssemblyInfoInputs.cache
+D:\dev\PatikaDev\hata-yonetimi\obj\Debug\net9.0\hata-yonetimi.AssemblyInfo.cs
+D:\dev\PatikaDev\hata-yonetimi\obj\Debug\net9.0\hata-yonetimi.csproj.CoreCompileInputs.cache
+D:\dev\PatikaDev\hata-yonetimi\obj\Debug\net9.0\hata-yonetimi.sourcelink.json
+D:\dev\PatikaDev\hata-yonetimi\obj\Debug\net9.0\hata-yonetimi.dll
+D:\dev\PatikaDev\hata-yonetimi\obj\Debug\net9.0\refint\hata-yonetimi.dll
+D:\dev\PatikaDev\hata-yonetimi\obj\Debug\net9.0\hata-yonetimi.pdb
+D:\dev\PatikaDev\hata-yonetimi\obj\Debug\net9.0\hata-yonetimi.genruntimeconfig.cache
+D:\dev\PatikaDev\hata-yonetimi\obj\Debug\net9.0\ref\hata-yonetimi.dll
