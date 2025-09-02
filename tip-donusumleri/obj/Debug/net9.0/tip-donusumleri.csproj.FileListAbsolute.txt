@@ -1,0 +1,15 @@
+D:\dev\PatikaDev\tip-donusumleri\bin\Debug\net9.0\tip-donusumleri.exe
+D:\dev\PatikaDev\tip-donusumleri\bin\Debug\net9.0\tip-donusumleri.deps.json
+D:\dev\PatikaDev\tip-donusumleri\bin\Debug\net9.0\tip-donusumleri.runtimeconfig.json
+D:\dev\PatikaDev\tip-donusumleri\bin\Debug\net9.0\tip-donusumleri.dll
+D:\dev\PatikaDev\tip-donusumleri\bin\Debug\net9.0\tip-donusumleri.pdb
+D:\dev\PatikaDev\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\PatikaDev\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.AssemblyInfoInputs.cache
+D:\dev\PatikaDev\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.AssemblyInfo.cs
+D:\dev\PatikaDev\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+D:\dev\PatikaDev\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.sourcelink.json
+D:\dev\PatikaDev\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.dll
+D:\dev\PatikaDev\tip-donusumleri\obj\Debug\net9.0\refint\tip-donusumleri.dll
+D:\dev\PatikaDev\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.pdb
+D:\dev\PatikaDev\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.genruntimeconfig.cache
+D:\dev\PatikaDev\tip-donusumleri\obj\Debug\net9.0\ref\tip-donusumleri.dll
