@@ -1,0 +1,15 @@
+D:\dev\PatikaDev\operatorler\bin\Debug\net9.0\operatorler.exe
+D:\dev\PatikaDev\operatorler\bin\Debug\net9.0\operatorler.deps.json
+D:\dev\PatikaDev\operatorler\bin\Debug\net9.0\operatorler.runtimeconfig.json
+D:\dev\PatikaDev\operatorler\bin\Debug\net9.0\operatorler.dll
+D:\dev\PatikaDev\operatorler\bin\Debug\net9.0\operatorler.pdb
+D:\dev\PatikaDev\operatorler\obj\Debug\net9.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\PatikaDev\operatorler\obj\Debug\net9.0\operatorler.AssemblyInfoInputs.cache
+D:\dev\PatikaDev\operatorler\obj\Debug\net9.0\operatorler.AssemblyInfo.cs
+D:\dev\PatikaDev\operatorler\obj\Debug\net9.0\operatorler.csproj.CoreCompileInputs.cache
+D:\dev\PatikaDev\operatorler\obj\Debug\net9.0\operatorler.sourcelink.json
+D:\dev\PatikaDev\operatorler\obj\Debug\net9.0\operatorler.dll
+D:\dev\PatikaDev\operatorler\obj\Debug\net9.0\refint\operatorler.dll
+D:\dev\PatikaDev\operatorler\obj\Debug\net9.0\operatorler.pdb
+D:\dev\PatikaDev\operatorler\obj\Debug\net9.0\operatorler.genruntimeconfig.cache
+D:\dev\PatikaDev\operatorler\obj\Debug\net9.0\ref\operatorler.dll
