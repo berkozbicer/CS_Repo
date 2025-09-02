@@ -31,6 +31,31 @@ namespace hata_yonetimi
             {
                 Console.WriteLine("Program sonlandı.");
             }
+            try
+            {
+                //int a = int.Parse(null);
+                //int a = int.Parse("abc");
+                int a = int.Parse("-2000000000");
+            }
+            catch (ArgumentNullException ex)
+            {
+                Console.WriteLine("Hata: Boş değer girdiniz.");
+                Console.WriteLine("Detaylar: " + ex.Message);
+            }
+            catch (FormatException ex)
+            {
+                Console.WriteLine("Hata: Geçersiz format.");
+                Console.WriteLine("Detaylar: " + ex.Message);
+            }
+            catch (OverflowException ex)
+            {
+                Console.WriteLine("Hata: Sayı çok büyük veya çok küçük.");
+                Console.WriteLine("Detaylar: " + ex.Message);
+            }
+            finally
+            {
+                Console.WriteLine("İkinci işlem sonlandı.");
+            }
         }
     }
 }
